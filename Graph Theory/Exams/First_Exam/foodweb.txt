@@ -1,0 +1,14 @@
+Shark, Sea otter
+Sea otter, Sea stars, sea urchins, large crabs, large fishes and octopus, abalone
+Sea stars, Abalone, small herbivorous fishes, sea urchins
+Sea urchins Kelp, sessile invertebrates, organic debris
+Abalone, Organic debris
+Large crabs, Sea stars, smaller predatory fishes and invertebrates, organic debris, small herbivorous fishes and invertebrates, kelp
+Smaller predatory fishes, Sessile invertebrates, planktonic invertebrates Kelp
+Small (herbivorous) fishes and invertebrates, Kelp
+Kelp, -
+Large fishes and octopus, Smaller predatory fishes and invertebrates
+Sessile invertebrates, Microscopic planktonic algae, planktonic invertebrates
+Organic debris, -
+Planktonic invertebrates, Microscopic planktonic algae
+Microscopic planktonic algae, -
